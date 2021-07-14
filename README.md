@@ -24,7 +24,7 @@
 
 ### コミュニケーションプラットフォーム開発
 
-#### 2020/07〜2020/06
+#### 2020/07〜2021/06
 
 #### プロジェクト概要
 
@@ -45,7 +45,7 @@ AWS(MediaConvert, CloudFront, CloudSearchy, S3, CodePipeline, CloudSearch), Java
 
 ### QRCode Hangtag
 
-#### 2020/05〜2021/06
+#### 2020/05〜2020/06
 
 #### プロジェクト概要
 
