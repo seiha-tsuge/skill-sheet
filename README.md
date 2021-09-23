@@ -78,7 +78,7 @@ AWS(Lambda, API Gateway, CloudFront, S3, Cognito, Amplify), TypeSctipt, Vue.js, 
 
 #### プロジェクト概要
 
-SCM(サプライチェーン・マネジメント)システムの新規開発
+SCM(サプライチェーン・マネジメント)システムの新規開発  
 SCM(サプライチェーン・マネジメント)と連携する API および Web 画面の新規開発
 
 #### 担当業務
