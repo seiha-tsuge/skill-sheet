@@ -228,7 +228,6 @@ Java, Spring, Servlet/JSP, Symfoware
 
 ## 活かせるスキル・経験
 
-
 | スキル     | 経験年数    |
 | :--------- | :---------- |
 | Java       | 5 ヵ月      |
