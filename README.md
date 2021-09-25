@@ -163,7 +163,7 @@ Azure(API Management, Azure Functions, Azure Storage, Azure Database for MySQL),
 #### 工夫した点・実績
 
 - 前任者の対応を巻き取り、リリースに必要な機能を 1 人称で開発しプロジェクトに貢献
-- Vue.js, TypeSctipt, Flask は初めて触れる技術だったものの、日々の開発を通じてキャッチアップに努める
+- TypeSctipt, Flask は初めて触れる技術だったものの、日々の開発を通じてキャッチアップに努める
 - コードレビューの文化に初めて触れ、ベテランエンジニアから指摘を受けることで成長
 - チームメンバーとの信頼関係を構築するために、毎日お昼ご飯をともにした
 - 離れたロケーションのメンバーとチャットツールのみで仕事をするのが難しかった
@@ -190,13 +190,14 @@ AWS(RDS, EC2, S3), TypeSctipt, Vue.js, Vuetify, Python, Flask, Flask-RESTful, SQ
 #### 工夫した点・実績
 
 - API 開発とフロントエンド開発を同時にこなし、フロントエンドの技術を学ぶことにより、幅広い視野での開発を経験
+- Vue.js, Wijmo, Python, Django は初めて触れる技術だったものの、日々の開発を通じてキャッチアップに努める
 - 自信が担当した画面のバックエンド、フロントエンドともに一人称で開発
 - 炎上しているプロジェクトに参画し、納品まで無事にやりとげる
 - テストリーダーと綿密に協力しバグをすべて改修
 
 #### 使用技術
 
-Python, Django, Django REST framework, JavaSctipt, Wijmo, jQuery, MySQL
+Python, Django, Django REST framework, JavaSctipt, Vue.js, Wijmo, jQuery, MySQL
 
 ---
 
@@ -227,16 +228,12 @@ Java, Spring, Servlet/JSP, Symfoware
 
 ## 活かせるスキル・経験
 
-| hoge       | 経験年数 |
-| :--------- | :------- |
-| Java       | 4 ヵ月   |
-| Python     | 4 ヵ月   |
-| JavaSctipt | 4 ヵ月   |
-| TypeSctipt | 4 ヵ月   |
-| Vue.js     | 4 ヵ月   |
-
-- Python, Vue.js を用いた Web アプリケーション開発
-- システム設計
-- 生産性、チームワークを意識したチームビルディング
+| スキル     | 経験年数    |
+| :--------- | :---------- |
+| Java       | 5 ヵ月      |
+| Python     | 8 ヵ月      |
+| JavaSctipt | 1 年 7 ヵ月 |
+| TypeSctipt | 5 ヵ月      |
+| Vue.js     | 2 年        |
 
 ## 自己 PR
