@@ -228,6 +228,7 @@ Java, Spring, Servlet/JSP, Symfoware
 
 ## 活かせるスキル・経験
 
+
 | スキル     | 経験年数    |
 | :--------- | :---------- |
 | Java       | 5 ヵ月      |
@@ -235,5 +236,6 @@ Java, Spring, Servlet/JSP, Symfoware
 | JavaSctipt | 1 年 7 ヵ月 |
 | TypeSctipt | 5 ヵ月      |
 | Vue.js     | 2 年        |
+| 設計書作成 | 1 年 3 ヵ月 |
 
 ## 自己 PR
