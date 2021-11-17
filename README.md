@@ -184,7 +184,7 @@ Azure(API Management, Azure Functions, Azure Storage, Azure Database for MySQL),
 #### 工夫した点・実績
 
 このプロジェクトに私が最も貢献したのは、リソースに必要な機能を 1 人称で開発したことです。
-また、このプロジェクトを通じて、TypeScript と Flask の技術を身につけました。
+また、このプロジェクトを通じて、TypeScript と Flask の技術を学びました。
 この時に初めてコードレビューを受け、ベテランエンジニアのノウハウを学ぶ機会となりました。
 
 #### 使用技術
