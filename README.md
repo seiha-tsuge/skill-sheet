@@ -54,7 +54,7 @@
 
 #### 使用技術
 
-AWS(EC2, S3), JavaSctipt, Vue.js, PHP, Laravel, MySQL
+AWS(EC2, S3), JavaScript, Vue.js, PHP, Laravel, MySQL
 
 ---
 
@@ -98,7 +98,7 @@ AWS(EC2, S3), JavaSctipt, Vue.js, PHP, Laravel, MySQL
 
 #### 使用技術
 
-AWS(MediaConvert, CloudFront, CloudSearchy, S3, CodePipeline, CloudSearch), JavaSctipt, Vue.js, Python, Flask, Flask-RESTPlus, MySQL
+AWS(MediaConvert, CloudFront, CloudSearch, S3, CodePipeline, CloudSearch), JavaScript, Vue.js, Python, Flask, Flask-RESTPlus, MySQL
 
 ---
 
@@ -126,7 +126,7 @@ AWS は当時未経験でしたので、日々の開発を通じたキャッチ�
 
 #### 使用技術
 
-AWS(Lambda, API Gateway, CloudFront, S3, Cognito, Amplify), TypeSctipt, Vue.js, Vuetify, Python, SQLAlchemy, MySQL
+AWS(Lambda, API Gateway, CloudFront, S3, Cognito, Amplify), TypeScript, Vue.js, Vuetify, Python, SQLAlchemy, MySQL
 
 ---
 
@@ -164,7 +164,7 @@ SCM と連携する API および Web 画面の新規開発
 
 #### 使用技術
 
-Azure(API Management, Azure Functions, Azure Storage, Azure Database for MySQL), TypeSctipt, Vue.js, Vuetify, Node.js, Sequelize
+Azure(API Management, Azure Functions, Azure Storage, Azure Database for MySQL), TypeScript, Vue.js, Vuetify, Node.js, Sequelize
 
 ---
 
@@ -188,9 +188,18 @@ Azure(API Management, Azure Functions, Azure Storage, Azure Database for MySQL),
 また、このプロジェクトを通じて、TypeScript と Flask の技術を学びました。
 この時に初めてコードレビューを受け、ベテランエンジニアのノウハウを学ぶ機会となりました。
 
+
+何を解決するプロジェクトなのか
+どのような役割で関わったのか
+システムの全体像
+どのような技術的な課題があったのか
+どのように主体的に解決に取り組んだのか
+結果はどうなったか
+
+
 #### 使用技術
 
-AWS(RDS, EC2, S3), TypeSctipt, Vue.js, Vuetify, Python, Flask, Flask-RESTful, SQLAlchemy, MySQL
+AWS(RDS, EC2, S3), TypeScript, Vue.js, Vuetify, Python, Flask, Flask-RESTful, SQLAlchemy, MySQL
 
 ---
 
@@ -208,21 +217,13 @@ AWS(RDS, EC2, S3), TypeSctipt, Vue.js, Vuetify, Python, Flask, Flask-RESTful, SQ
 
 #### 取り組んだこと
 
-このプロジェクトで、Vue.js, Wijmo, Python, Django の技術を学びました。
-さらに、担当画面のバックエンド・フロントエンドを単独で開発し、プロジェクトの一翼を担いました。
-API 開発とフロントエンド開発を同時にこなすことで、幅広い視野を獲得できたと実感しています。
-その上で、テストリーダーと綿密に協力して発生したバグの改修に取り組みました。
+初めてVue.jsとWijmoを使ったフロントエンド開発、そしてPythonとDjangoでのバックエンド開発に取り組みました。これら新しい技術の習得は難しかったですが、オンライン教材や書籍を駆使して自習に励みました。特にWijmoについては日本語の情報が限られており、情報を集めるのが大変でした。しかし、公式のサポートチームの助けを借りて、知識を深めることができました。
 
-何を解決するプロジェクトなのか
-どのような役割で関わったのか
-システムの全体像
-どのような技術的な課題があったのか
-どのように主体的に解決に取り組んだのか
-結果はどうなったか
+このような一連の取り組みにより、技術スキルが向上し、プロジェクトの開発作業をよりスムーズに進めることができるようになりました。
 
 #### 使用技術
 
-Python, Django, Django REST framework, JavaSctipt, Vue.js, Wijmo, jQuery, MySQL
+Python, Django, Django REST framework, JavaScript, Vue.js, Wijmo, jQuery, MySQL
 
 ---
 
