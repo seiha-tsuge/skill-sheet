@@ -69,7 +69,7 @@
 
 #### 使用技術
 
-ー
+Next.js, TypeScript, GraphQL, Urql, React Query, Mantine, Go, Amazon EKS
 
 ---
 
@@ -95,7 +95,7 @@ Vue.js を使用したフロントエンドの開発を担当しました。
 
 #### 使用技術
 
-AWS(EC2, S3), JavaScript, Vue.js, PHP, Laravel, MySQL
+JavaScript, Vue.js, PHP, Laravel, MySQL, AWS(EC2, S3)
 
 ---
 
@@ -122,7 +122,7 @@ Vue.js を使用したフロントエンドの開発と設計を行い、単体�
 
 #### 使用技術
 
-AWS(MediaConvert, CloudFront, CloudSearch, S3, CodePipeline, CloudSearch), JavaScript, Vue.js, Python, Flask, Flask-RESTPlus, MySQL
+JavaScript, Vue.js, Python, Flask, Flask-RESTPlus, MySQL, AWS(MediaConvert, CloudFront, CloudSearch, S3, CodePipeline, CloudSearch)
 
 ---
 
@@ -150,7 +150,7 @@ AWS(MediaConvert, CloudFront, CloudSearch, S3, CodePipeline, CloudSearch), JavaS
 
 #### 使用技術
 
-AWS(Lambda, API Gateway, CloudFront, S3, Cognito, Amplify), TypeScript, Vue.js, Vuetify, Python, SQLAlchemy, MySQL
+TypeScript, Vue.js, Vuetify, Python, SQLAlchemy, MySQL, AWS(Lambda, API Gateway, CloudFront, S3, Cognito, Amplify)
 
 ---
 
@@ -204,7 +204,7 @@ TypeScriptとFlaskに関しては、プロジェクト開始時には熟知し�
 
 #### 使用技術
 
-AWS(RDS, EC2, S3), TypeScript, Vue.js, Vuetify, Python, Flask, Flask-RESTful, SQLAlchemy, MySQL
+TypeScript, Vue.js, Vuetify, Python, Flask, Flask-RESTful, SQLAlchemy, MySQL, AWS(RDS, EC2, S3)
 
 ---
 
