@@ -69,7 +69,7 @@
 
 #### 使用技術
 
-Next.js, TypeScript, GraphQL, Urql, React Query, Mantine, Go, Amazon EKS
+Next.js, TypeScript, GraphQL, urql, React Query, Mantine, Go, Amazon EKS
 
 ---
 
