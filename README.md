@@ -65,7 +65,7 @@
 
 さらに、新たな挑戦としてフロントエンドチームのマネジメントを担うことになりました。チームメンバーの技術力や特性を考慮し、タスクマネジメントや進捗の管理を行いました。マネジメント経験が不足していたため、関連書籍を参照し、上司や先輩からのアドバイスを積極的に求めて実践に活かしました。これによりマネジメントスキルを向上させました。
 
-#### 使用技術
+#### プロジェクトの採用技術
 
 Next.js・TypeScript・GraphQL・urql・React Query・Mantine・Go・Amazon EKS
 
@@ -91,7 +91,7 @@ Vue.js を使用したフロントエンドの開発を担当しました。
 
 さらに、JavaScript の処理を単一責任原則でリファクタリングし、凝集度が高く結合度の低いコードを目指しました。開発経験の浅いメンバーへのコードレビューを通じて、チーム全体の技術力向上に貢献したことは大きな成果でした。
 
-#### 使用技術
+#### プロジェクトの採用技術
 
 JavaScript・Vue.js・PHP・Laravel・MySQL・AWS（EC2・S3）
 
@@ -117,7 +117,7 @@ Vue.js を用いたフロントエンド開発、設計、単体・結合テス�
 
 開発面では、チームメンバーと設計や実装方針についての議論を重ね、相互のコードレビューを通じてソースコードの品質向上に努めました。新機能の開発では、ライブラリの技術調査と導入を担当しました。
 
-#### 使用技術
+#### プロジェクトの採用技術
 
 JavaScript・Vue.js・Python・Flask・Flask-RESTPlus・MySQL・AWS(MediaConvert・CloudFront・CloudSearch・S3・CodePipeline・CloudSearch)
 
@@ -145,7 +145,7 @@ JavaScript・Vue.js・Python・Flask・Flask-RESTPlus・MySQL・AWS(MediaConvert
 
 新しい技術やアプローチを組織に導入する際、段階的な導入の重要性を深く認識しました。また、新技術の導入は組織の全面的なサポートが不可欠であることを学びました。技術的な課題が多いこのプロジェクトでは、毎週の振り返りや日常のコミュニケーションを通じて問題を特定し、解決策を探求しました。その結果、チームは成長し、多くの教訓を得ることができました。この経験は、失敗から学び、成長するための貴重な機会となりました。
 
-#### 使用技術
+#### プロジェクトの採用技術
 
 TypeScript・Vue.js・Vuetify・Python・SQLAlchemy・MySQL・AWS(Lambda・API Gateway・CloudFront・S3・Cognito・Amplify)
 
@@ -173,7 +173,7 @@ SCM（サプライチェーン・マネジメント）システムの開発に�
 
 また、テスト仕様書の作成を任され、試験観点やテストケースの策定に初めて取り組みました。未経験の領域だったため最初は難しさを感じましたが、書籍や記事を通じて自己学習を行い、不慣れな分野に対する理解を深めました。その結果、単体テストからシナリオテストに至るまでの一連のテスト仕様書を完成させることができました。
 
-#### 使用技術
+#### プロジェクトの採用技術
 
 Azure(API Management・Azure Functions・Azure Storage・Azure Database for MySQL)・TypeScript・Vue.js・Vuetify・Node.js・Sequelize
 
@@ -199,7 +199,7 @@ TypeScript と Flask に関しては、プロジェクト開始時には熟知�
 
 私が開発した機能は、プロジェクトの要求を満たし、期待通りに機能しました。新しい技術の習得により、私のスキルセットは大きく広がり、将来のプロジェクトにも役立つようになりました。ベテランエンジニアからの学びは、今後のキャリアにとっても貴重な経験となりました。
 
-#### 使用技術
+#### プロジェクトの採用技術
 
 TypeScript・Vue.js・Vuetify・Python・Flask・Flask-RESTful・SQLAlchemy・MySQL・AWS(RDS・EC2・S3)
 
@@ -221,7 +221,7 @@ TypeScript・Vue.js・Vuetify・Python・Flask・Flask-RESTful・SQLAlchemy・My
 
 初めて Vue.js と Wijmo を使ったフロントエンド開発、Python と Django でのバックエンド開発に取り組みました。新しい技術の習得は難しかったが、オンライン教材や書籍を駆使して自習しました。特に、Wijmo については日本語の情報が限られていたため、情報収集が困難でした。しかし、公式のサポートチームの助けを借りて知識を深めることができました。この経験により、技術力が向上し、開発効率が大幅に改善されました。
 
-#### 使用技術
+#### プロジェクトの採用技術
 
 Python・Django・Django REST framework・JavaScript・Vue.js・Wijmo・jQuery・MySQL
 
@@ -247,6 +247,6 @@ Python・Django・Django REST framework・JavaScript・Vue.js・Wijmo・jQuery�
 
 さらに、設計から実装、テストに至る一連の開発プロセスを経験し、チームとの協力の中で多角的な視点からの問題発見と解決の重要性を学びました。この経験は、私のキャリアにとって非常に価値あるものとなりました。
 
-#### 使用技術
+#### プロジェクトの採用技術
 
 Java・Spring・Servlet/JSP・Symfoware
