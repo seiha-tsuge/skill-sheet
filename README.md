@@ -16,7 +16,7 @@
 | 区分 | 技術                                                                                 |
 | :--- | :----------------------------------------------------------------------------------- |
 | 言語 | TypeScript, Java, Python                                                             |
-| Web  | React, Next.js, Nuxt.js, Vue.js, Node.js, Spring, Flask, Django                      |
+| FW   | React, Next.js, Nuxt.js, Vue.js, Node.js, Spring, Flask, Django                      |
 | 基盤 | AWS, Docker, GitHub Actions, Terraform                                               |
 | DB   | PostgreSQL, MySQL                                                                    |
 | 設計 | DDD, オニオン, Feature-Sliced Design, スキーマ駆動, 型安全, 契約ファースト, 状態管理 |
