@@ -13,14 +13,14 @@
 - **経験年数**：エンジニア経験 約8年（2018年3月〜）
 - **得意領域**：フルスタック開発（フロントエンド／バックエンド／インフラ）、アジャイル／スクラム開発推進、DDD／ソフトウェアデザイン、Webサービスの新規立ち上げ・業務システム刷新、業務理解を起点とした要件整理／DX推進
 
-| 区分                   | 技術                                                                                                       |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------- |
-| 言語                   | TypeScript、Java、Python                                                                                   |
-| FW／ライブラリ         | React、Next.js、Nuxt.js、Vue.js、Node.js、Spring、Flask、Django                                            |
-| インフラ／クラウド     | AWS、Docker、GitHub Actions、Terraform                                                                     |
-| DB                     | PostgreSQL、MySQL                                                                                          |
-| 設計／開発プラクティス | DDD、オニオンアーキテクチャ、Feature-Sliced Design、スキーマ駆動開発、型安全設計、契約ファースト、状態管理 |
-| ツール                 | Figma                                                                                                      |
+| 区分     | 技術                                                                                                       |
+| :------- | :--------------------------------------------------------------------------------------------------------- |
+| 言語     | TypeScript, Java, Python                                                                                   |
+| FW       | React, Next.js, Nuxt.js, Vue.js, Node.js, Spring, Flask, Django                                            |
+| クラウド | AWS, Docker, GitHub Actions, Terraform                                                                     |
+| DB       | PostgreSQL, MySQL                                                                                          |
+| 設計     | DDD, オニオンアーキテクチャ, Feature-Sliced Design, スキーマ駆動開発, 型安全設計, 契約ファースト, 状態管理 |
+| ツール   | Figma                                                                                                      |
 
 ## 職務要約
 
